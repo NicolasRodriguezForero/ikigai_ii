@@ -1,0 +1,23 @@
+# Uso: pandoc informe.md --defaults pdf-informe.yaml
+# Requiere: pandoc + LaTeX con xelatex (MiKTeX / TeX Live)
+
+from: markdown
+to: docx
+output-file: Propuesta.docx
+pdf-engine: xelatex
+standalone: true
+
+# Documento sencillo: sin índice ni numeración automática de secciones
+
+variables:
+  documentclass: extarticle
+  classoption:
+    - oneside
+  fontsize: 10pt
+  papersize: a4
+  lang: es
+  geometry: margin=2.2cm
+  colorlinks: false
+  # Opcional (solo si tienes la fuente instalada): descomenta y ajusta el nombre exacto
+  # mainfont: "Times New Roman"
+  # sansfont: "Arial"
