@@ -96,17 +96,17 @@ A continuación, los textos exactos —o muy próximos a los definitivos— para
 
 ### 3.4 METODOLOGÍA *(caja central — fondo claro, acento azul)*
 
-**Idea central:** *Una metodología mixta y en tres tiempos: pensar, conversar, encarnar.*
+**Idea central:** *Una metodología en tres fases consecutivas: mirar atrás, mirar adentro, intervenir adelante.*
 
-> El proyecto se desarrolla bajo un **enfoque cualitativo, hermenéutico y aplicado**, articulado en tres componentes mutuamente generativos:
+> El proyecto se desarrolla bajo un **enfoque cualitativo, hermenéutico y aplicado**, organizado en **tres fases encadenadas** que parten del hallazgo del semestre anterior y avanzan hasta la intervención en campo:
 >
-> 1. **Académico** — Elaboración de un ensayo filosófico-analítico ("*Voluntad, Vacío y Propósito*") que da sustento conceptual a todo el programa.
-> 2. **Pedagógico** — Ciclo *Brújulas*: cinco talleres reflexivos, cada uno anclado en la pregunta vital de un filósofo (Epicteto, Frankl, Sartre, Camus, e integración final con *Ikigai*).
-> 3. **Artístico** — Instalación participativa *Cartas al Fuego*: tres capas (escritura de lo que se suelta, creación del *Muro de los Propósitos*, performance ritual de cierre con fuego).
+> 1. **Revisión de los resultados previos.** Relectura sistemática del estudio del semestre 2025-2 sobre el miedo universitario en estudiantes de la Sergio Arboleda (18–23 años). Se identifican patrones, vacíos y preguntas no resueltas que justifican el desplazamiento del foco —del *miedo manifiesto* al *vacío de sentido*— y se conserva el mismo grupo poblacional para garantizar continuidad investigativa.
 >
-> Estos tres componentes no operan en paralelo, sino en **circuito**: el ensayo informa los talleres, los talleres preparan a los participantes para la instalación, y la instalación devuelve material vivo al ensayo. La continuidad con el estudio del semestre anterior se garantiza utilizando **el mismo grupo poblacional** (estudiantes Sergio Arboleda, 18–23 años) y comparando su autoreporte de presión y sentido antes y después de la intervención.
+> 2. **Revisión académica.** Rastreo y sistematización del corpus filosófico que articula el marco teórico (Frankl, Nietzsche, Sartre/De Beauvoir, Camus, Kierkegaard/Heidegger/Ortega, Estoicos y Han). El producto de esta fase es el ensayo "*Voluntad, Vacío y Propósito*", que opera como columna conceptual del programa y como criterio para seleccionar las herramientas que pasarán al trabajo de campo.
+>
+> 3. **Postulación de planteamiento, diseño de estrategias e implementación.** A partir de las dos fases anteriores se formula la hipótesis de trabajo (*el sentido se activa cuando el pensamiento se encarna en práctica simbólica*) y se traducen las herramientas filosóficas a dos dispositivos aplicados: el ciclo pedagógico **Brújulas** (cinco talleres anclados en Epicteto, Frankl, Sartre, Camus e *Ikigai*) y la instalación participativa **Cartas al Fuego** (urna, muro y brasero). La implementación se evalúa comparando el autoreporte de presión y sentido de los participantes antes y después de la intervención.
 
-*(Recomendación gráfica: diagrama circular con tres nodos —Académico, Pedagógico, Artístico— y flechas de retroalimentación, similar al diagrama del semestre anterior pero ahora con tres puntos en vez de cuatro.)*
+*(Recomendación gráfica: línea de proceso horizontal con tres bloques numerados —Revisión previa → Revisión académica → Planteamiento, diseño e implementación— y una flecha de retorno que indique que los hallazgos de la fase 3 retroalimentan las fases 1 y 2.)*
 
 ---
 
